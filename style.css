@@ -1,0 +1,24 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+  text-align: center;
+}
+
+#contenedor {
+  font-size: 1.6rem;
+  line-height: 2.2rem;
+}
+
+#contenedor ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#contenedor li {
+  margin: 0.25rem 0;
+}
